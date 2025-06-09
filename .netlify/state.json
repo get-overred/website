@@ -1,0 +1,21 @@
+{
+	"siteId": "84c862bf-2dac-439b-aab3-698eb475af7c",
+	"geolocation": {
+		"data": {
+			"city": "Los Angeles",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "CA",
+				"name": "California"
+			},
+			"timezone": "America/Los_Angeles",
+			"latitude": 34.0544,
+			"longitude": -118.2441,
+			"postalCode": "90060"
+		},
+		"timestamp": 1729259707367
+	}
+}

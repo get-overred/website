@@ -1,0 +1,22 @@
+{
+	"/": [
+		"src/routes/+page.ts"
+	],
+	"/404": [
+		"src/routes/404/+page.ts"
+	],
+	"/contact": [
+		"src/routes/contact/+page.ts"
+	],
+	"/contact/success": [
+		"src/routes/contact/success/+page.ts"
+	],
+	"/docs": [
+		"src/routes/docs/+page.ts"
+	],
+	"/docs/[slug]": [
+		"src/routes/docs/[slug]/+page.ts"
+	],
+	"/privacy-policy": [],
+	"/terms": []
+}

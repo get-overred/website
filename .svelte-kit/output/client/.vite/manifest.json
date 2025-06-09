@@ -1,0 +1,408 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "file": "_app/immutable/entry/app.Bhx56gAq.js",
+    "name": "entry/app",
+    "src": ".svelte-kit/generated/client-optimized/app.js",
+    "isEntry": true,
+    "imports": [
+      "_preload-helper.D6kgxu3v.js",
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js",
+      ".svelte-kit/generated/client-optimized/nodes/3.js",
+      ".svelte-kit/generated/client-optimized/nodes/4.js",
+      ".svelte-kit/generated/client-optimized/nodes/5.js",
+      ".svelte-kit/generated/client-optimized/nodes/6.js",
+      ".svelte-kit/generated/client-optimized/nodes/7.js",
+      ".svelte-kit/generated/client-optimized/nodes/8.js",
+      ".svelte-kit/generated/client-optimized/nodes/9.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0.BfDp_f24.js",
+    "name": "nodes/0",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_each.DV1TCby9.js",
+      "_stores.Bf1sF5yy.js",
+      "_index.QWTMb9We.js",
+      "_entry.B04yrovI.js",
+      "_spread.CgU5AtxT.js"
+    ],
+    "css": [
+      "_app/immutable/assets/0.DwTH6S3B.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/fa-brands-400.O7nZalfM.woff2",
+      "_app/immutable/assets/fa-brands-400.Dur5g48u.ttf",
+      "_app/immutable/assets/fa-regular-400.DgEfZSYE.woff2",
+      "_app/immutable/assets/fa-regular-400.Bf3rG5Nx.ttf",
+      "_app/immutable/assets/fa-solid-900.DOQJEhcS.woff2",
+      "_app/immutable/assets/fa-solid-900.BV3CbEM2.ttf",
+      "_app/immutable/assets/fa-v4compatibility.BX8XWJtE.woff2",
+      "_app/immutable/assets/fa-v4compatibility.B9MWI-E6.ttf"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.BTyjO4Z_.js",
+    "name": "nodes/1",
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_stores.Bf1sF5yy.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "_app/immutable/nodes/2.B7K8eTf2.js",
+    "name": "nodes/2",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_seo.BKX5ZMcc.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/3.js": {
+    "file": "_app/immutable/nodes/3.DlACvCCF.js",
+    "name": "nodes/3",
+    "src": ".svelte-kit/generated/client-optimized/nodes/3.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_each.DV1TCby9.js"
+    ],
+    "css": [
+      "_app/immutable/assets/3.DqxmcjQL.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/chrome.E_30igwY.avif",
+      "_app/immutable/assets/chrome.DNBBR7gF.avif",
+      "_app/immutable/assets/chrome.0s8YaCYD.webp",
+      "_app/immutable/assets/chrome.pz92zPJ_.webp",
+      "_app/immutable/assets/chrome.DEfEfq9s.png",
+      "_app/immutable/assets/chrome.BLkU-SIV.png"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/4.js": {
+    "file": "_app/immutable/nodes/4.CWe3Nb9w.js",
+    "name": "nodes/4",
+    "src": ".svelte-kit/generated/client-optimized/nodes/4.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/5.js": {
+    "file": "_app/immutable/nodes/5.7Od0TvSy.js",
+    "name": "nodes/5",
+    "src": ".svelte-kit/generated/client-optimized/nodes/5.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_PageHeading.BlIsExcP.js",
+      "_seo.BKX5ZMcc.js"
+    ],
+    "css": [
+      "_app/immutable/assets/5.DFLIdvin.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/6.js": {
+    "file": "_app/immutable/nodes/6.B60-bKhF.js",
+    "name": "nodes/6",
+    "src": ".svelte-kit/generated/client-optimized/nodes/6.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_entry.B04yrovI.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/7.js": {
+    "file": "_app/immutable/nodes/7.Cpzr0OIc.js",
+    "name": "nodes/7",
+    "src": ".svelte-kit/generated/client-optimized/nodes/7.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_preload-helper.D6kgxu3v.js",
+      "_ProfilePictures.DGp7s7DG.js",
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_each.DV1TCby9.js",
+      "_PageHeading.BlIsExcP.js",
+      "_index.QWTMb9We.js",
+      "_stores.Bf1sF5yy.js"
+    ],
+    "dynamicImports": [
+      "src/posts/overred-vs-clueso/overred-vs-clueso.md",
+      "src/posts/overred-vs-scribe/overred-vs-scribe.md",
+      "src/posts/quick-start/ cooperative defection.md",
+      "src/posts/overred-vs-scribe/header/Screenshot 2024-11-08 at 18.17.45.png",
+      "src/posts/quick-start/header/header.png",
+      "src/posts/overred-vs-clueso/overred-vs-clueso.md",
+      "src/posts/overred-vs-scribe/overred-vs-scribe.md",
+      "src/posts/quick-start/ cooperative defection.md"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/8.js": {
+    "file": "_app/immutable/nodes/8.CPvyuAqZ.js",
+    "name": "nodes/8",
+    "src": ".svelte-kit/generated/client-optimized/nodes/8.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_preload-helper.D6kgxu3v.js",
+      "_ProfilePictures.DGp7s7DG.js",
+      "_entry.B04yrovI.js",
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_spread.CgU5AtxT.js",
+      "_stores.Bf1sF5yy.js"
+    ],
+    "dynamicImports": [
+      "src/posts/overred-vs-clueso/overred-vs-clueso.md",
+      "src/posts/overred-vs-scribe/overred-vs-scribe.md",
+      "src/posts/quick-start/ cooperative defection.md",
+      "src/posts/overred-vs-scribe/header/Screenshot 2024-11-08 at 18.17.45.png",
+      "src/posts/quick-start/header/header.png"
+    ],
+    "css": [
+      "_app/immutable/assets/8.CC6a6BaW.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/overred_og_fallback.Gbt4o3ka.png"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/9.js": {
+    "file": "_app/immutable/nodes/9.B-Wmc8kV.js",
+    "name": "nodes/9",
+    "src": ".svelte-kit/generated/client-optimized/nodes/9.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_PageHeading.BlIsExcP.js"
+    ]
+  },
+  "_PageHeading.BlIsExcP.js": {
+    "file": "_app/immutable/chunks/PageHeading.BlIsExcP.js",
+    "name": "PageHeading",
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js"
+    ]
+  },
+  "_ProfilePictures.DGp7s7DG.js": {
+    "file": "_app/immutable/chunks/ProfilePictures.DGp7s7DG.js",
+    "name": "ProfilePictures",
+    "assets": [
+      "_app/immutable/assets/fallback_image.rvtRGLN4.jpg",
+      "_app/immutable/assets/profile_picture.D8SpmU-s.jpeg",
+      "_app/immutable/assets/fallback_profile.pBWKwnIj.webp"
+    ]
+  },
+  "_each.DV1TCby9.js": {
+    "file": "_app/immutable/chunks/each.DV1TCby9.js",
+    "name": "each",
+    "imports": [
+      "_index.CbhNv2OM.js",
+      "_scheduler.ESG4J4As.js"
+    ]
+  },
+  "_entry.B04yrovI.js": {
+    "file": "_app/immutable/chunks/entry.B04yrovI.js",
+    "name": "entry",
+    "imports": [
+      "_scheduler.ESG4J4As.js"
+    ]
+  },
+  "_index.CbhNv2OM.js": {
+    "file": "_app/immutable/chunks/index.CbhNv2OM.js",
+    "name": "index",
+    "imports": [
+      "_scheduler.ESG4J4As.js"
+    ]
+  },
+  "_index.QWTMb9We.js": {
+    "file": "_app/immutable/chunks/index.QWTMb9We.js",
+    "name": "index",
+    "imports": [
+      "_scheduler.ESG4J4As.js"
+    ]
+  },
+  "_postLayout.C2Rn4O7J.js": {
+    "file": "_app/immutable/chunks/postLayout.C2Rn4O7J.js",
+    "name": "postLayout",
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js"
+    ]
+  },
+  "_preload-helper.D6kgxu3v.js": {
+    "file": "_app/immutable/chunks/preload-helper.D6kgxu3v.js",
+    "name": "preload-helper"
+  },
+  "_scheduler.ESG4J4As.js": {
+    "file": "_app/immutable/chunks/scheduler.ESG4J4As.js",
+    "name": "scheduler"
+  },
+  "_seo.BKX5ZMcc.js": {
+    "file": "_app/immutable/chunks/seo.BKX5ZMcc.js",
+    "name": "seo"
+  },
+  "_spread.CgU5AtxT.js": {
+    "file": "_app/immutable/chunks/spread.CgU5AtxT.js",
+    "name": "spread"
+  },
+  "_stores.Bf1sF5yy.js": {
+    "file": "_app/immutable/chunks/stores.Bf1sF5yy.js",
+    "name": "stores",
+    "imports": [
+      "_entry.B04yrovI.js"
+    ]
+  },
+  "chrome.avif": {
+    "file": "_app/immutable/assets/chrome.DNBBR7gF.avif",
+    "src": "chrome.avif"
+  },
+  "chrome.png": {
+    "file": "_app/immutable/assets/chrome.BLkU-SIV.png",
+    "src": "chrome.png"
+  },
+  "chrome.webp": {
+    "file": "_app/immutable/assets/chrome.pz92zPJ_.webp",
+    "src": "chrome.webp"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "_app/immutable/assets/fa-brands-400.Dur5g48u.ttf",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "_app/immutable/assets/fa-brands-400.O7nZalfM.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "_app/immutable/assets/fa-regular-400.Bf3rG5Nx.ttf",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "_app/immutable/assets/fa-regular-400.DgEfZSYE.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "_app/immutable/assets/fa-solid-900.BV3CbEM2.ttf",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "_app/immutable/assets/fa-solid-900.DOQJEhcS.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "_app/immutable/assets/fa-v4compatibility.B9MWI-E6.ttf",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "_app/immutable/assets/fa-v4compatibility.BX8XWJtE.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "node_modules/.pnpm/@sveltejs+kit@2.5.18_@sveltejs+vite-plugin-svelte@3.1.1_svelte@4.2.18_vite@5.3.5_@types_be86c84fc26e484bc8c04fc15425264d/node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
+    "file": "_app/immutable/entry/start.DaCJR2kN.js",
+    "name": "entry/start",
+    "src": "node_modules/.pnpm/@sveltejs+kit@2.5.18_@sveltejs+vite-plugin-svelte@3.1.1_svelte@4.2.18_vite@5.3.5_@types_be86c84fc26e484bc8c04fc15425264d/node_modules/@sveltejs/kit/src/runtime/client/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_entry.B04yrovI.js"
+    ]
+  },
+  "src/lib/assets/fallback_image.jpg": {
+    "file": "_app/immutable/assets/fallback_image.rvtRGLN4.jpg",
+    "src": "src/lib/assets/fallback_image.jpg"
+  },
+  "src/lib/assets/fallback_profile.webp": {
+    "file": "_app/immutable/assets/fallback_profile.pBWKwnIj.webp",
+    "src": "src/lib/assets/fallback_profile.webp"
+  },
+  "src/lib/assets/overred_og_fallback.png": {
+    "file": "_app/immutable/assets/overred_og_fallback.Gbt4o3ka.png",
+    "src": "src/lib/assets/overred_og_fallback.png"
+  },
+  "src/lib/assets/profile_picture.jpeg": {
+    "file": "_app/immutable/assets/profile_picture.D8SpmU-s.jpeg",
+    "src": "src/lib/assets/profile_picture.jpeg"
+  },
+  "src/posts/overred-vs-clueso/overred-vs-clueso.md": {
+    "file": "_app/immutable/chunks/overred-vs-clueso.yK6Iz5_U.js",
+    "name": "overred-vs-clueso",
+    "src": "src/posts/overred-vs-clueso/overred-vs-clueso.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_spread.CgU5AtxT.js",
+      "_postLayout.C2Rn4O7J.js"
+    ]
+  },
+  "src/posts/overred-vs-scribe/header/Screenshot 2024-11-08 at 18.17.45.png": {
+    "file": "_app/immutable/chunks/Screenshot 2024-11-08 at 18.17.45.-zCLzrA7.js",
+    "name": "Screenshot 2024-11-08 at 18.17.45",
+    "src": "src/posts/overred-vs-scribe/header/Screenshot 2024-11-08 at 18.17.45.png",
+    "isDynamicEntry": true,
+    "assets": [
+      "_app/immutable/assets/Screenshot 2024-11-08 at 18.17.45.DmtHMRwt.png"
+    ]
+  },
+  "src/posts/overred-vs-scribe/overred-vs-scribe.md": {
+    "file": "_app/immutable/chunks/overred-vs-scribe.Bd-0prNX.js",
+    "name": "overred-vs-scribe",
+    "src": "src/posts/overred-vs-scribe/overred-vs-scribe.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_spread.CgU5AtxT.js",
+      "_postLayout.C2Rn4O7J.js"
+    ]
+  },
+  "src/posts/quick-start/ cooperative defection.md": {
+    "file": "_app/immutable/chunks/ cooperative defection.5YK9ASvw.js",
+    "name": " cooperative defection",
+    "src": "src/posts/quick-start/ cooperative defection.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.ESG4J4As.js",
+      "_index.CbhNv2OM.js",
+      "_spread.CgU5AtxT.js",
+      "_postLayout.C2Rn4O7J.js"
+    ]
+  },
+  "src/posts/quick-start/header/header.png": {
+    "file": "_app/immutable/chunks/header.Bok4Qsj7.js",
+    "name": "header",
+    "src": "src/posts/quick-start/header/header.png",
+    "isDynamicEntry": true,
+    "assets": [
+      "_app/immutable/assets/header.e3FJ8qVY.png"
+    ]
+  }
+}

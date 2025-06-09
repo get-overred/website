@@ -1,0 +1,113 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* HTML file: */
+html {
+    scroll-behavior: smooth;
+}
+
+/* All files: */
+* {
+    box-sizing: border-box;
+    font-family: 'Rubik';
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik'), local('Rubik'), local('Rubik'), local('Rubik'),
+        url('/fonts/Rubik/Rubik-Black.ttf');
+    font-weight: 900;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik'), local('Rubik'), local('Rubik'), local('Rubik'),
+        url('/fonts/Rubik/Rubik-ExtraBold.ttf');
+    font-weight: 800;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik'), local('Rubik'), local('Rubik'), local('Rubik'),
+        url('/fonts/Rubik/Rubik-Bold.ttf');
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+} 
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik'), local('Rubik'), local('Rubik'), local('Rubik'),
+        url('/fonts/Rubik/Rubik-SemiBold.ttf');
+    font-weight: 600;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik'), local('Rubik'), local('Rubik'), local('Rubik'),
+        url('/fonts/Rubik/Rubik-Medium.ttf');
+    font-weight: 500;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik'), local('Rubik'), local('Rubik'), local('Rubik'),
+        url('/fonts/Rubik/Rubik-Regular.ttf');
+    font-weight: normal;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Rubik';
+    src: local('Rubik'), local('Rubik'), local('Rubik'), local('Rubik'),
+        url('/fonts/Rubik/Rubik-Light.ttf');
+    font-weight: 300;
+    font-display: swap;
+    font-style: normal;
+} 
+
+
+
+
+
+
+/*  */
+/* Markdown Post */
+/*  */
+
+/* ... */
+
+.md_post :is(h2, h3, h4, h5, h6) {
+	margin-top: 5px;
+	margin-bottom: 5px;
+    font-size: 3rem /* 48px */;
+    line-height: 1;
+    font-weight: 700;
+    color: rgb(3 43 66 / var(--tw-text-opacity)) /* #032b42 */;
+}
+
+.md_post p:not(:is(h2, h3, h4, h5, h6) + p) {
+	margin-top: 15px;
+    color: rgb(250 43 66)) /* #032b42 */;
+}
+
+.md_post :is(ul, ol) {
+	list-style-type: '🔥';
+	padding-left: var(--size-5);
+}
+
+.md_post :is(ul, ol) li {
+	margin-block: var(--size-2);
+	padding-inline-start: var(--size-2);
+}
+
+.md_post pre {
+	max-inline-size: 100%;
+	padding: 1rem;
+	border-radius: 8px;
+	tab-size: 2;
+}

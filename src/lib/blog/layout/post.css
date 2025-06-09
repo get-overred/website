@@ -1,0 +1,146 @@
+.prose {
+
+	/* Set the Width: */
+	width: 100%;
+	@media (width >= 750px) {
+		width: 85%
+	}
+	@media (width >= 1000px) {
+		width: 80%
+	}
+	@media (width >= 1250px) {
+		width: 70%
+	}
+	@media (width >= 1500px) {
+		width: 60%
+	}
+	@media (width >= 1750px) {
+		width: 50%
+	}
+
+	h1 {
+		display: none;
+	}
+
+	h2:first-of-type {
+		margin-top: 0px;
+		margin-bottom: 25px;
+		font-weight: bold;
+		font-size: 1.5em;
+		width: 100%;
+		color: #000;
+		background-color: #f9f9ff;
+		border-left: 4px solid var(--color-primary);
+		padding: 0.5em 1em;
+	}
+
+	h2 {
+		margin-top: 77px;
+		margin-bottom: 25px;
+		font-weight: bold;
+		font-size: 1.5em;
+		width: 100%;
+		color: #0b1639;
+		background-color: #f9f9ff;
+		border-left: 4px solid var(--color-primary);
+		padding: 0.5em 1em;
+	}
+
+	h3,h4,h5 {
+		margin-top: 50px;
+		margin-bottom: 10px;
+		text-align: left;
+		width: 100%;
+		font-size: 1.25em;
+		padding-left: 0.5rem
+	}
+
+	a {
+		text-decoration: underline !important;
+		text-underline-offset: 4px;
+		color: #0b1639;
+	}
+
+	p > a,
+	li > a {
+		text-decoration: underline;
+		text-underline-offset: 4px;
+	}
+
+	p,
+	li {
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 26px;
+		text-align: left;
+		margin-bottom: 16px;
+		color: #0b1639;
+	}
+
+	p:has(img) {
+		display: contents;
+	}
+
+	@media (width >= 800px) {
+		& :where(iframe, video, img, pre, .rehype-code-title) {
+			grid-column: gutter-start / gutter-end;
+		}
+	}
+
+	img {
+		justify-self: center;
+	}
+
+	img,
+	iframe,
+	video,
+	p,
+	ul,
+	ol,
+	pre,
+	blockquote,
+	details {
+		margin-bottom: 0;
+		text-align: left;
+	}
+
+	li > ul {
+		margin-bottom: 0;
+	}
+
+	li > ul {
+		margin-top: var(--spacing-8);
+		padding-left: var(--spacing-16);
+	}
+
+	li > ul > li {
+		list-style-type: circle;
+	}
+
+	ol {
+		list-style-type: decimal;
+	}
+
+	li > ol {
+		margin-top: var(--spacing-8);
+		padding-left: var(--spacing-16);
+	}
+
+	blockquote {
+		padding: var(--spacing-32);
+		color: var(--post-blockquote-txt);
+		background-color: var(--post-blockquote-bg);
+		border: 1px solid var(--post-blockquote-border);
+		border-radius: var(--rounded-20);
+		box-shadow: var(--shadow-sm);
+
+		p {
+			margin-bottom: 0;
+		}
+	}
+
+	details summary {
+		margin-bottom: var(--spacing-8);
+		font-weight: 700;
+	}
+}

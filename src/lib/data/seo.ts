@@ -1,0 +1,6 @@
+export const seo_map = {
+    "404": { title: "Contact", description: "Here you can contact us." },
+    "blog": { title: "Blog", description: "See our newest posts." },
+    "contact": { title: "Contact", description: "Feel free to contact us any time." },
+    "pricing": { title: "Pricing", description: "OverRED - It's FREE422" },
+} 

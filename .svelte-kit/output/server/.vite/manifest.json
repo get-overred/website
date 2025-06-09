@@ -1,0 +1,391 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "name": "internal",
+    "src": ".svelte-kit/generated/server/internal.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js"
+    ]
+  },
+  "_PageHeading.js": {
+    "file": "chunks/PageHeading.js",
+    "name": "PageHeading",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_client.js": {
+    "file": "chunks/client.js",
+    "name": "client",
+    "imports": [
+      "_exports.js"
+    ]
+  },
+  "_exports.js": {
+    "file": "chunks/exports.js",
+    "name": "exports"
+  },
+  "_functions.js": {
+    "file": "chunks/functions.js",
+    "name": "functions"
+  },
+  "_index.js": {
+    "file": "chunks/index.js",
+    "name": "index"
+  },
+  "_index2.js": {
+    "file": "chunks/index2.js",
+    "name": "index",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "name": "internal",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_postLayout.js": {
+    "file": "chunks/postLayout.js",
+    "name": "postLayout",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_seo.js": {
+    "file": "chunks/seo.js",
+    "name": "seo"
+  },
+  "_ssr.js": {
+    "file": "chunks/ssr.js",
+    "name": "ssr"
+  },
+  "_stores.js": {
+    "file": "chunks/stores.js",
+    "name": "stores",
+    "imports": [
+      "_ssr.js",
+      "_client.js"
+    ]
+  },
+  "chrome.avif": {
+    "file": "_app/immutable/assets/chrome.DNBBR7gF.avif",
+    "src": "chrome.avif"
+  },
+  "chrome.png": {
+    "file": "_app/immutable/assets/chrome.BLkU-SIV.png",
+    "src": "chrome.png"
+  },
+  "chrome.webp": {
+    "file": "_app/immutable/assets/chrome.pz92zPJ_.webp",
+    "src": "chrome.webp"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "_app/immutable/assets/fa-brands-400.Dur5g48u.ttf",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "_app/immutable/assets/fa-brands-400.O7nZalfM.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "_app/immutable/assets/fa-regular-400.Bf3rG5Nx.ttf",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "_app/immutable/assets/fa-regular-400.DgEfZSYE.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "_app/immutable/assets/fa-solid-900.BV3CbEM2.ttf",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "_app/immutable/assets/fa-solid-900.DOQJEhcS.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "file": "_app/immutable/assets/fa-v4compatibility.B9MWI-E6.ttf",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "file": "_app/immutable/assets/fa-v4compatibility.BX8XWJtE.woff2",
+    "src": "node_modules/.pnpm/@fortawesome+fontawesome-free@6.6.0/node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "node_modules/.pnpm/@sveltejs+kit@2.5.18_@sveltejs+vite-plugin-svelte@3.1.1_svelte@4.2.18_vite@5.3.5_@types_be86c84fc26e484bc8c04fc15425264d/node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "name": "index",
+    "src": "node_modules/.pnpm/@sveltejs+kit@2.5.18_@sveltejs+vite-plugin-svelte@3.1.1_svelte@4.2.18_vite@5.3.5_@types_be86c84fc26e484bc8c04fc15425264d/node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "isEntry": true,
+    "imports": [
+      "_internal.js",
+      "_index.js",
+      "_exports.js",
+      "_index2.js"
+    ]
+  },
+  "src/lib/assets/fallback_image.jpg": {
+    "file": "_app/immutable/assets/fallback_image.rvtRGLN4.jpg",
+    "src": "src/lib/assets/fallback_image.jpg"
+  },
+  "src/lib/assets/fallback_profile.webp": {
+    "file": "_app/immutable/assets/fallback_profile.pBWKwnIj.webp",
+    "src": "src/lib/assets/fallback_profile.webp"
+  },
+  "src/lib/assets/overred_og_fallback.png": {
+    "file": "_app/immutable/assets/overred_og_fallback.Gbt4o3ka.png",
+    "src": "src/lib/assets/overred_og_fallback.png"
+  },
+  "src/lib/assets/profile_picture.jpeg": {
+    "file": "_app/immutable/assets/profile_picture.D8SpmU-s.jpeg",
+    "src": "src/lib/assets/profile_picture.jpeg"
+  },
+  "src/posts/overred-vs-clueso/overred-vs-clueso.md": {
+    "file": "chunks/overred-vs-clueso.js",
+    "name": "overred-vs-clueso",
+    "src": "src/posts/overred-vs-clueso/overred-vs-clueso.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_postLayout.js"
+    ]
+  },
+  "src/posts/overred-vs-scribe/header/Screenshot 2024-11-08 at 18.17.45.png": {
+    "file": "chunks/Screenshot 2024-11-08 at 18.17.45.js",
+    "name": "Screenshot 2024-11-08 at 18.17.45",
+    "src": "src/posts/overred-vs-scribe/header/Screenshot 2024-11-08 at 18.17.45.png",
+    "isDynamicEntry": true,
+    "assets": [
+      "_app/immutable/assets/Screenshot 2024-11-08 at 18.17.45.DmtHMRwt.png"
+    ]
+  },
+  "src/posts/overred-vs-scribe/overred-vs-scribe.md": {
+    "file": "chunks/overred-vs-scribe.js",
+    "name": "overred-vs-scribe",
+    "src": "src/posts/overred-vs-scribe/overred-vs-scribe.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_postLayout.js"
+    ]
+  },
+  "src/posts/quick-start/ cooperative defection.md": {
+    "file": "chunks/ cooperative defection.js",
+    "name": " cooperative defection",
+    "src": "src/posts/quick-start/ cooperative defection.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_postLayout.js"
+    ]
+  },
+  "src/posts/quick-start/header/header.png": {
+    "file": "chunks/header.js",
+    "name": "header",
+    "src": "src/posts/quick-start/header/header.png",
+    "isDynamicEntry": true,
+    "assets": [
+      "_app/immutable/assets/header.e3FJ8qVY.png"
+    ]
+  },
+  "src/routes/+error.svelte": {
+    "file": "entries/pages/_error.svelte.js",
+    "name": "entries/pages/_error.svelte",
+    "src": "src/routes/+error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_stores.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "entries/pages/_layout.svelte.js",
+    "name": "entries/pages/_layout.svelte",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_stores.js",
+      "_index2.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.qgWaxXJl.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/fa-brands-400.O7nZalfM.woff2",
+      "_app/immutable/assets/fa-brands-400.Dur5g48u.ttf",
+      "_app/immutable/assets/fa-regular-400.DgEfZSYE.woff2",
+      "_app/immutable/assets/fa-regular-400.Bf3rG5Nx.ttf",
+      "_app/immutable/assets/fa-solid-900.DOQJEhcS.woff2",
+      "_app/immutable/assets/fa-solid-900.BV3CbEM2.ttf",
+      "_app/immutable/assets/fa-v4compatibility.BX8XWJtE.woff2",
+      "_app/immutable/assets/fa-v4compatibility.B9MWI-E6.ttf"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "entries/pages/_page.svelte.js",
+    "name": "entries/pages/_page.svelte",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.DqxmcjQL.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/chrome.E_30igwY.avif",
+      "_app/immutable/assets/chrome.DNBBR7gF.avif",
+      "_app/immutable/assets/chrome.0s8YaCYD.webp",
+      "_app/immutable/assets/chrome.pz92zPJ_.webp",
+      "_app/immutable/assets/chrome.DEfEfq9s.png",
+      "_app/immutable/assets/chrome.BLkU-SIV.png"
+    ]
+  },
+  "src/routes/+page.ts": {
+    "file": "entries/pages/_page.ts.js",
+    "name": "entries/pages/_page.ts",
+    "src": "src/routes/+page.ts",
+    "isEntry": true
+  },
+  "src/routes/404/+page.svelte": {
+    "file": "entries/pages/404/_page.svelte.js",
+    "name": "entries/pages/404/_page.svelte",
+    "src": "src/routes/404/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "src/routes/404/+page.ts": {
+    "file": "entries/pages/404/_page.ts.js",
+    "name": "entries/pages/404/_page.ts",
+    "src": "src/routes/404/+page.ts",
+    "isEntry": true
+  },
+  "src/routes/contact/+layout.svelte": {
+    "file": "entries/pages/contact/_layout.svelte.js",
+    "name": "entries/pages/contact/_layout.svelte",
+    "src": "src/routes/contact/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_seo.js"
+    ]
+  },
+  "src/routes/contact/+page.svelte": {
+    "file": "entries/pages/contact/_page.svelte.js",
+    "name": "entries/pages/contact/_page.svelte",
+    "src": "src/routes/contact/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_PageHeading.js",
+      "_seo.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.DFLIdvin.css"
+    ]
+  },
+  "src/routes/contact/+page.ts": {
+    "file": "entries/pages/contact/_page.ts.js",
+    "name": "entries/pages/contact/_page.ts",
+    "src": "src/routes/contact/+page.ts",
+    "isEntry": true
+  },
+  "src/routes/contact/success/+page.svelte": {
+    "file": "entries/pages/contact/success/_page.svelte.js",
+    "name": "entries/pages/contact/success/_page.svelte",
+    "src": "src/routes/contact/success/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_client.js"
+    ]
+  },
+  "src/routes/contact/success/+page.ts": {
+    "file": "entries/pages/contact/success/_page.ts.js",
+    "name": "entries/pages/contact/success/_page.ts",
+    "src": "src/routes/contact/success/+page.ts",
+    "isEntry": true
+  },
+  "src/routes/docs/+page.svelte": {
+    "file": "entries/pages/docs/_page.svelte.js",
+    "name": "entries/pages/docs/_page.svelte",
+    "src": "src/routes/docs/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_PageHeading.js",
+      "_stores.js"
+    ]
+  },
+  "src/routes/docs/+page.ts": {
+    "file": "entries/pages/docs/_page.ts.js",
+    "name": "entries/pages/docs/_page.ts",
+    "src": "src/routes/docs/+page.ts",
+    "isEntry": true,
+    "imports": [
+      "_functions.js"
+    ],
+    "dynamicImports": [
+      "src/posts/overred-vs-clueso/overred-vs-clueso.md",
+      "src/posts/overred-vs-scribe/overred-vs-scribe.md",
+      "src/posts/quick-start/ cooperative defection.md",
+      "src/posts/overred-vs-scribe/header/Screenshot 2024-11-08 at 18.17.45.png",
+      "src/posts/quick-start/header/header.png",
+      "src/posts/overred-vs-clueso/overred-vs-clueso.md",
+      "src/posts/overred-vs-scribe/overred-vs-scribe.md",
+      "src/posts/quick-start/ cooperative defection.md"
+    ]
+  },
+  "src/routes/docs/[slug]/+page.svelte": {
+    "file": "entries/pages/docs/_slug_/_page.svelte.js",
+    "name": "entries/pages/docs/_slug_/_page.svelte",
+    "src": "src/routes/docs/[slug]/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_stores.js"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.CC6a6BaW.css"
+    ],
+    "assets": [
+      "_app/immutable/assets/fallback_image.rvtRGLN4.jpg",
+      "_app/immutable/assets/profile_picture.D8SpmU-s.jpeg",
+      "_app/immutable/assets/fallback_profile.pBWKwnIj.webp",
+      "_app/immutable/assets/overred_og_fallback.Gbt4o3ka.png"
+    ]
+  },
+  "src/routes/docs/[slug]/+page.ts": {
+    "file": "entries/pages/docs/_slug_/_page.ts.js",
+    "name": "entries/pages/docs/_slug_/_page.ts",
+    "src": "src/routes/docs/[slug]/+page.ts",
+    "isEntry": true,
+    "imports": [
+      "_functions.js",
+      "_index.js"
+    ],
+    "dynamicImports": [
+      "src/posts/overred-vs-clueso/overred-vs-clueso.md",
+      "src/posts/overred-vs-scribe/overred-vs-scribe.md",
+      "src/posts/quick-start/ cooperative defection.md",
+      "src/posts/overred-vs-scribe/header/Screenshot 2024-11-08 at 18.17.45.png",
+      "src/posts/quick-start/header/header.png"
+    ]
+  },
+  "src/routes/privacy-policy/+page.svelte": {
+    "file": "entries/pages/privacy-policy/_page.svelte.js",
+    "name": "entries/pages/privacy-policy/_page.svelte",
+    "src": "src/routes/privacy-policy/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js",
+      "_PageHeading.js"
+    ]
+  }
+}
